@@ -32,17 +32,17 @@ sidebar:
     #languages:
       #title: Languages
       #info:
-        - #idiom: English
-          #level: Native
+        #- idiom: English
+         # level: Native
 
-        - #idiom: French
-          #level: Professional
+        #- idiom: French
+         # level: Professional
 
-        - #idiom: Spanish
-          #level: Professional
+        #- idiom: Spanish
+         # level: Professional
 
     interests:
-      title: Abilidades
+      title: Habilidades
       info:
         - item: Soy persistente
           link:
