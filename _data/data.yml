@@ -60,14 +60,11 @@ career-profile:
       A lo laego de mi trayectoria en Atenea Adversativa,
       he logrado elevar las ventas de nuestra cuenta mas importante.
 education:
-    title: Habilidades
+    title: Educacion
     info:
-    - item: Soy persistente
-    - item: Trabajo bien en equipo
-    - item: Soy muy deportista
-       # degree: MSc in Computer Science
-       # university: University of London
-       # time: 2011 - 2012
+        degree: Titulo EDucacion Secundaria Obligatoria
+        university: Ceipso Salvador dali
+        time: 2019 - 2023
        # details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -88,27 +85,19 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: Experiencia
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Monitor de tiempo libre con niños
+        time: 2021 - 2022
+     #   company: Startup Hubs, San Francisco
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
+          Actividades en centro deportivo
+       #     - Bullet point
+       #     - Bullet point
+    #  - role: Senior Software Engineer
+    #    time: 2014 - 2015
+    #    company: Google, London
+    #    details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
