@@ -44,13 +44,13 @@ sidebar:
     interests:
       title: Habilidades
       info:
-        - item: Soy persistente
+        - item: Persistente
           link:
 
-        - item: Trabajo bien en equipo
+        - item: Trabajo en equipo
           link:
 
-        - item: Soy muy deportista
+        - item: Deportista
           link:
 
 career-profile:
@@ -66,7 +66,7 @@ education:
         university: Ceipso Salvador dali
         time: 2019 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
+       #  Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
@@ -105,10 +105,10 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
+    #  - role: UI Developer
+    #    time: 2012 - 2014
+    #    company: Amazon, London
+    #    details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
