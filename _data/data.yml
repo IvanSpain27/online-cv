@@ -62,10 +62,10 @@ career-profile:
 education:
     title: Educacion
     info:
-        degree: Titulo EDucacion Secundaria Obligatoria
+        degree: Titulo Educacion Secundaria Obligatoria
         university: Ceipso Salvador dali
         time: 2019 - 2023
-       # details: |
+        details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -89,7 +89,7 @@ experiences:
     info:
       - role: Monitor de tiempo libre con niños
         time: 2021 - 2022
-     #   company: Startup Hubs, San Francisco
+        company: Inditex
         details: |
           Actividades en centro deportivo
        #     - Bullet point
